@@ -1,0 +1,24 @@
+title: "The Buzzard-Gee Conjecture via Automorphic-Galois Compatibility Persistence"
+  message: "If you use this workspace, cite the manuscript and theorem notes."
+  type: software
+  authors:
+    - name: "HautevilleHouse"
+  date-released: 2026-03-05
+  repository-code: "https://github.com/HautevilleHouse/buzzard-gee-conjecture-canonical-lane"
+  url: "https://github.com/HautevilleHouse/buzzard-gee-conjecture-canonical-lane"
+  license: None
+  keywords:
+- automorphic-forms
+- buzzard-gee
+- canonical-lane
+- galois-representations
+- local-to-global
+- manifold-constrained
+- mathematical-proof
+- reproducibility
+  preferred-citation:
+    type: article
+    title: "The Buzzard-Gee Conjecture via Automorphic-Galois Compatibility Persistence"
+    authors:
+      - name: "HautevilleHouse"
+    date: 2026-03-05
