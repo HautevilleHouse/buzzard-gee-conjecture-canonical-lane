@@ -1,6 +1,6 @@
 # EG2 Public Note (Capture and Restart)
 
-Mature wording: `transport / local-to-global transfer`.
+Canonical wording: `transport / local-to-global transfer`.
 
 In-paper anchor: `paper/BUZZARD_GEE_CONJECTURE_PREPRINT.md` (`BZG_G2`).
 
@@ -38,5 +38,5 @@ If transport accounting and restart preservation hold, then `BZG_G2` carries the
 
 - gate: `BZG_G2`
 - artifact key: `sigma_local`
-- mature equivalent: `transport / local-to-global transfer`
+- canonical equivalent: `transport / local-to-global transfer`
 - audit surface: `repro/run_repro.sh` and `repro/certificate_runtime.json`

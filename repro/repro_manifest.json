@@ -26,27 +26,27 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "dd481b39ac592fa69a4de91f4a9281760150102e8eb192edaa63dd6cbebf9fa5"
+      "sha256": "d6ab5b8abbced833e3a602b289efb72a64fab0c4580502eec4746a76a7fa7916"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "653c57b7048c0e2ce7bfa1a9d441ff20bac616704a785e643a95f4e0a32e628c"
+      "sha256": "600d9d42a9a32313c519cd7ab2d1eb854d8dbc7ee4f40fc8782f60596667395d"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "8af30a5e6ecc222b72542a9bfc64d7852e44a06b7cc7b55d3e0df21e3dad504e"
+      "sha256": "b51ce9392b92b80e40e917cafa7b3c8f0f479c0b5cd46667abf15d9e5bc51393"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "ca1345b59e2ad6ed6dd8bf3659f2745fdab9df751862ab7ab5929be8d26238e9"
+      "sha256": "e1c48a491e4d8c6192e5ec896b84f73923d50bb8f63f66d31b1dee9a1e5a6008"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "c1ef3bbbe3aafd881f7b3abf649637fdc4b097cdd49a620a5343df3b97145863"
+      "sha256": "87e3e144be25fdd7f6efcfefe196b6b766d185a58d844974deb6caec9a088676"
     },
     {
       "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
-      "sha256": "309d984ed0a2527e3aa5b8cbe11beef089d4201e27439df2a1a2fa8951541466"
+      "sha256": "cc3e6670ae4e110fedeb318e6210ff31381839300085b521331c95301379af0a"
     },
     {
       "path": "scripts/bzg_closure_guard.py",
@@ -105,6 +105,6 @@
       "sha256": "aa809a5d6aea4a32b03569b7bc28a9cd50a91bae0cd6554bb2de94f1a75d47e4"
     }
   ],
-  "generated_utc": "2026-07-02T16:12:46Z",
+  "generated_utc": "2026-07-02T16:29:34Z",
   "schema_version": "2026-03-05"
 }
