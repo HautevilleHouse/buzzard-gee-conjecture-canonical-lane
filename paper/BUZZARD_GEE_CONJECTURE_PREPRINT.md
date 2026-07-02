@@ -58,7 +58,7 @@ Let `A` denote the admissible class used throughout Sections 2-8 and Appendices 
 
 ### 1.3 Explicit remainder discipline
 
-Write `Y = Y_mc^BZG \sqcup R_BZG`, where `Y_mc^BZG` is the declared admissible visible sector induced by `A` and `R_BZG` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^BZG`; it does not silently identify admissible closure with unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_BZG`.
+Write `Y = Y_mc^BZG \sqcup R_BZG`, where `Y_mc^BZG` is the declared admissible visible sector induced by `A` and `R_BZG` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^BZG`; admissible closure remains distinct from unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_BZG`.
 
 ---
 

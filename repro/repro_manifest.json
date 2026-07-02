@@ -14,7 +14,7 @@
     },
     {
       "path": "paper/BUZZARD_GEE_CONJECTURE_PREPRINT.md",
-      "sha256": "d7a4f64d150d14b99f99121af156271c516cf5ab81e4141fbcd31e9a7b25695e"
+      "sha256": "f313473d242ae166112e0111647066c6bc280c69be014b524eb3abc0960a5af0"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -30,7 +30,7 @@
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "600d9d42a9a32313c519cd7ab2d1eb854d8dbc7ee4f40fc8782f60596667395d"
+      "sha256": "2bb11cb78e01907082f10e8029b151573f6deedb8d64440a1332519eb62e596d"
     },
     {
       "path": "notes/EG3_public.md",
@@ -105,6 +105,6 @@
       "sha256": "aa809a5d6aea4a32b03569b7bc28a9cd50a91bae0cd6554bb2de94f1a75d47e4"
     }
   ],
-  "generated_utc": "2026-07-02T16:29:34Z",
+  "generated_utc": "2026-07-02T16:57:56Z",
   "schema_version": "2026-03-05"
 }
